@@ -1,8 +1,26 @@
-# React + Vite
+# Netify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend project built with ReactJS, Redux, and Tailwind CSS, utilizing the TMDB API. This application features infinite scrolling, video handling using React Player, and state management with Redux.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Infinite Scrolling:** Automatically loads more movies as you scroll down.
+- **Video Handling:** Uses React Player to play movie trailers.
+- **State Management:** Manages application state using Redux.
+- **Responsive Design:** Styled with Tailwind CSS for a responsive and modern UI.
+
+## Demo
+
+[Live Demo](#)
+
+## Screenshots
+
+![Screenshot 1](#) (Replace with actual screenshots)
+![Screenshot 2](#)
+
+## Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yourusername/TMDB-Movie-App.git
+   cd TMDB-Movie-App
