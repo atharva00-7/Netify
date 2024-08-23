@@ -13,11 +13,6 @@ A frontend project built with ReactJS, Redux, and Tailwind CSS, utilizing the TM
 
 netify-cp8xoh17i-atharva-tandales-projects.vercel.app
 
-## Screenshots
-
-![Screenshot 1](C:\Users\tanda\OneDrive\Pictures\Screenshots\Screenshot 2024-08-23 194629.png) 
-![Screenshot 2](#)
-
 ## Installation
 
 To run the game locally, follow these steps:
