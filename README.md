@@ -9,18 +9,31 @@ A frontend project built with ReactJS, Redux, and Tailwind CSS, utilizing the TM
 - **State Management:** Manages application state using Redux.
 - **Responsive Design:** Styled with Tailwind CSS for a responsive and modern UI.
 
-## Demo
+## Live Link
 
-[Live Demo](#)
+netify-cp8xoh17i-atharva-tandales-projects.vercel.app
 
 ## Screenshots
 
-![Screenshot 1](#) (Replace with actual screenshots)
+![Screenshot 1]("C:\Users\tanda\OneDrive\Pictures\Screenshots\Screenshot 2024-08-23 194629.png") (Replace with actual screenshots)
 ![Screenshot 2](#)
 
 ## Installation
 
-1. Clone the repository
+To run the game locally, follow these steps:
+
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/TMDB-Movie-App.git
-   cd TMDB-Movie-App
+   git clone https://github.com/atharva00-7/Netify.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd Netify
+
+3. **Install the dependencies:**
+   ```bash
+   npm install
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
