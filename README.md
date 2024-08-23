@@ -11,7 +11,7 @@ A frontend project built with ReactJS, Redux, and Tailwind CSS, utilizing the TM
 
 ## Live Link
 
-You can view the app live here: [Netify](netify-i24f0exoc-atharva-tandales-projects.vercel.app)
+You can view the app live here: [Netify]((https://netify-93nb976oe-atharva-tandales-projects.vercel.app/))
 
 ## Installation
 
